@@ -7,7 +7,7 @@
 #include "hal/gpio_types.h"
 #include "portmacro.h"
 
-#define BLINK_LED 2
+#define BLINK_LED 3
 
 void app_main(void)
 {
